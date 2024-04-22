@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "esp_mac.h": "c",
+        "esp_wifi_default.h": "c",
+        "esp_wifi.h": "c",
+        "freertos.h": "c",
+        "protocol_examples_common.h": "c",
+        "nvs.h": "c",
+        "nvs_flash.h": "c",
+        "esp_log.h": "c",
+        "esp_event.h": "c",
+        "uart_pins.h": "c",
+        "uart.h": "c",
+        "interrupts.h": "c",
+        "periph_defs.h": "c",
+        "soc.h": "c",
+        "stdint.h": "c",
+        "esp_transport_tcp.h": "c",
+        "tcpip.h": "c",
+        "modbus_params.h": "c",
+        "ping_sock.h": "c"
+    }
+}

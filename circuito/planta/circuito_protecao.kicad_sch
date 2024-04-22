@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "497235cc-84ce-45a1-a31d-2234a6fe98c3")
+	(paper "A4")
+	(title_block
+		(title "Circuitos de protecao")
+		(date "2024-03-18")
+		(rev "1.0")
+		(company "Alex Thomas Valmorbida")
+	)
+	(lib_symbols)
+)
